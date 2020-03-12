@@ -76,7 +76,8 @@ body, p {
 	padding-left: 1.25rem;
 }
 .logo-image {
-	 
+	 max-width:95%;
+         max-height:95%;
 	 margin-bottom: 4.25rem;
 }
 

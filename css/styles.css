@@ -75,6 +75,10 @@ body, p {
 .indent {
 	padding-left: 1.25rem;
 }
+.logo image {
+	 max-width:50%;
+         max-height:50%;
+}
 
 h1 {
 	color: #f1f1f8;

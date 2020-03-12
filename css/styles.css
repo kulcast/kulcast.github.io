@@ -53,7 +53,8 @@ body, p {
 }
 
 .p-large {
-	color: #f1f1f8;
+	color: #ffffff;
+	letter-spacing: 2px; 
 	font: 400 1rem/1.5rem "Open Sans", sans-serif;
 }
 
